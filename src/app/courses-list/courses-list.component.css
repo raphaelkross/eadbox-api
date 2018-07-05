@@ -1,0 +1,12 @@
+.mat-card-course {
+  margin-bottom: 30px;
+}
+
+.mat-card-title {
+  font-weight: 600;
+  font-size: 15px;
+}
+
+.mat-card-description {
+  margin-left: 8px;
+}
